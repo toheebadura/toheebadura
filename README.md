@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toheebadura
 - 👀 I’m interested in Python and R for Data Science and Machine Learning.
-- 🌱 I’m currently learning Python as a beginner, and I am versed in the application of R software for statistical analysis.
-- 💞️ I’m looking to collaborate on any project that could help me develop with a fast pace.
+- 🌱 I’m becoming proficient in the application of Python and R software for statistical analysis.
+- 💞️ I’m looking to collaborate on any project that could help me develop more.
 - 📫 How to reach me toheebadura@gmail.com or +2347068188738.
 
 <!---
