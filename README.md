@@ -5,7 +5,7 @@ Master of Science degree in Mathematical Sciences, African Institute for Mathema
 Doctor of Philosophy in Data Science, University of Limerick (Ongoing)
 
 ### My Research Interests
-I'm interested in _Statistical Modelling_, _Natural Language Processing_, _Machine Learning_, _Deep Learning_ and _Finance_. <be>
+I'm interested in _Natural Language Processing_, _Statistical Modelling_, _Machine Learning_, _Deep Learning_ and _Finance_. <be>
 
 ### My Hobbies
 I love literature, writing and football.
