@@ -1,10 +1,10 @@
 
 
 ### 🧑‍🎓 The Little Educational Background
-🥇 &mdash; National Diploma in Mathematics and Statistics, Moshood Abiola Polytechnic - $2012 - 2014$ \
-🥈 &mdash; Bachelor's degree in Statistics from the University of Ibadan - $2016 - 2019$ \
-🥉 &mdash; Master of Science degree in Mathematical Sciences, African Institute for Mathematical Sciences, Rwanda - $2021 - 2022$ \
-4️⃣ &mdash; Doctor of Philosophy in Data Science, University of Limerick (Ongoing) - $2022 - 2026 $
+🥇 &mdash; National Diploma in Mathematics and Statistics, Moshood Abiola Polytechnic, Abeokuta, Nigeria; $2012 - 2014$ \
+🥈 &mdash; Bachelor's degree in Statistics, University of Ibadan, Nigeria;  $2016 - 2019$ \
+🥉 &mdash; Master of Science degree in Mathematical Sciences, African Institute for Mathematical Sciences, Rwanda;  $2021 - 2022$ \
+4️⃣ &mdash; Doctor of Philosophy in Data Science, University of Limerick, Ireland;  $2022 - 2026 $
 
 ### 📗 My Research Interests
 💻 &mdash; Natural Language Processing \
