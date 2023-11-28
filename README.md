@@ -7,7 +7,10 @@
 4️⃣ &mdash; Doctor of Philosophy in Data Science, University of Limerick (Ongoing)
 
 ### My Research Interests
-I'm interested in _Natural Language Processing_, _Statistical Modelling_, _Machine Learning_, _Deep Learning_ and _Finance_. <be>
+💻 &mdash; Natural Language Processing \
+🔢 &mdash; Statistical Modelling \
+💻 &mdash; Machine Learning \
+💰 &mdash; Finance 
 
 ### My Hobbies
 ⚽ &mdash; I watch football occasionally, and also follow the most interesting matches.
