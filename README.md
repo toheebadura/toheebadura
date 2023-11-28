@@ -18,3 +18,5 @@
 📚 &mdash; I love works of literature. The art is intriguing and makes me wanna become a proper writer.
 
 🎞️ &mdash; I see the best-rated movies. Occasionally still because I tend to spend months trying to complete one.
+
+🧑‍🤝‍🧑 &mdash; I participate in volunteering programmes as much as I can.
