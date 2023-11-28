@@ -11,5 +11,7 @@ I'm interested in _Natural Language Processing_, _Statistical Modelling_, _Machi
 
 ### My Hobbies
 ⚽ &mdash; I watch football occasionally, and also follow the most interesting matches.
+
 📚 &mdash; I love works of literature. The art is intriguing and makes me wanna become a proper writer.
+
 🎞️ &mdash; I see the best-rated movies. Occasionally still because I tend to spend months trying to complete one.
