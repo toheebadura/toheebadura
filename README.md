@@ -10,7 +10,7 @@
 💻 &mdash; Natural Language Processing \
 🔢 &mdash; Statistical Modelling \
 💻 &mdash; Machine Learning \
-💻 &mdash; Deep Learning \
+🧠 &mdash; Deep Learning \
 💰 &mdash; Finance 
 
 ### 🤾‍♂️ My Hobbies
